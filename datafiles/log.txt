@@ -1,0 +1,73 @@
+/Users/gillianchu/Desktop/cpsc/project/datafiles/data
+['/Users/gillianchu/Desktop/cpsc/project/datafiles/data/Lemur_16s.fasta', '/Users/gillianchu/Desktop/cpsc/project/datafiles/data/bats.fasta', '/Users/gillianchu/Desktop/cpsc/project/datafiles/data/Lemur_cytb.fasta', '/Users/gillianchu/Desktop/cpsc/project/datafiles/data/gliding_squirrels_cytb.fasta', '/Users/gillianchu/Desktop/cpsc/project/datafiles/data/Beaver_Colugo_Platypus.fasta', '/Users/gillianchu/Desktop/cpsc/project/datafiles/data/gliding_squirrels_16S.fasta', '/Users/gillianchu/Desktop/cpsc/project/datafiles/data/great_ape_genes.fasta']
+16s
+Allenopithecus_nigroviridis_16s 16s
+Lepilemur_hubbardorum_16s 16s
+Nycticebus_coucang_16s 16s
+Pan_troglodytes_16s 16s
+Tarsius_bancanus_16s 16s
+Carlito_syrichta_16s 16s
+/Users/gillianchu/Desktop/cpsc/project/datafiles/data/Lemur_16s.fasta contained 6 files
+
+Cynopterus_brachyotis_16S 16s
+Cynopterus_brachyotis_cytb cytb
+Epomophorus_wahlbergi_16S 16s
+Epomophorus_wahlbergi_cytb cytb
+Lasiurus_cinereus__16S 16s
+Lasiurus_cinereus__cytb cytb
+Myotis_lucifugus_16S 16s
+Myotis_lucifugus_cytb cytb
+Pteropus_dasymallus_16S_ 16s
+Pteropus_dasymallus_cytb cytb
+Rhinolophus_ferrumequinum_16S 16s
+Rhinolophus_ferrumequinum_cytb cytb
+/Users/gillianchu/Desktop/cpsc/project/datafiles/data/bats.fasta contained 12 files
+cytb
+Allenopithecus_nigroviridis_cytB cytb
+Lepilemur_hubbardorum_cytB cytb
+Nycticebus_coucang_cytB cytb
+Pan_troglodytes_cytB cytb
+Tarsius_bancanus_cytB cytb
+Carlito_syrichta_cytB cytb
+/Users/gillianchu/Desktop/cpsc/project/datafiles/data/Lemur_cytb.fasta contained 6 files
+cytb
+Sciuridae_Sciurinae_Pteromyini_Aeretesmelanopterus_AY227593 cytb
+Sciuridae_Sciurinae_Pteromyini_Glaucomysvolans_AY227598 cytb
+Sciuridae_Sciurinae_Pteromyini_Hylopetesphayrei_AY227599 cytb
+Sciuridae_Sciurinae_Sciurini_Sciurusgranatensis_AY227613 cytb
+Sciuridae_Sciurinae_Sciurini_Tamiasciurusdouglasii_HG962419 cytb
+Sciuridae_Sciurinae_Sciurini_Sciurusniger_HG962404 cytb
+Aplodontidae_(outgroup)_Aplodontiarufa_AJ427238 cytb
+/Users/gillianchu/Desktop/cpsc/project/datafiles/data/gliding_squirrels_cytb.fasta contained 7 files
+
+Castor_canadensis_16S 16s
+Castor_canadensis_cytb cytb
+Cynocephalus_volans_16S 16s
+Cynocephalus_volans_cytb cytb
+Galeopterus_variegatus_16S 16s
+Galeopterus_variegatus_cytb cytb
+Ornithorhynchus_anatinus_16S 16s
+Ornithorhynchus_anatinus_cytb cytb
+/Users/gillianchu/Desktop/cpsc/project/datafiles/data/Beaver_Colugo_Platypus.fasta contained 8 files
+16s
+Sciuridae_Sciurinae_Pteromyini_Aeretesmelanopterus_AY227481 16s
+Sciuridae_Sciurinae_Pteromyini_Glaucomysvolans_AF038020 16s
+Sciuridae_Sciurinae_Pteromyini_Hylopetesphayrei_KC447305 16s
+Sciuridae_Sciurinae_Sciurini_Sciurusgranatensis_HG962400 16s
+Sciuridae_Sciurinae_Sciurini_Tamiasciurusdouglasii_HG962421 16s
+Sciuridae_Sciurinae_Sciurini_Sciurusniger_DQ334840 16s
+Aplodontidae_(outgroup)_Aplodontiarufa_AY227451 16s
+/Users/gillianchu/Desktop/cpsc/project/datafiles/data/gliding_squirrels_16S.fasta contained 7 files
+
+Troglodytes_schweinfurthii_16S 16s
+Pan_troglodytes_cytb cytb
+Pan_paniscus_16s 16s
+Pan_paniscus_cytb cytb
+Pongo_pygmaeus_16s 16s
+Pongo_pygmaeus_cytb cytb
+Pongo_abelii_16s 16s
+Pongo_abelii_cytb cytb
+/Users/gillianchu/Desktop/cpsc/project/datafiles/data/great_ape_genes.fasta contained 8 files
+54
+16s 27
+cytb 27
