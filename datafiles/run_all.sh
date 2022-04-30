@@ -31,5 +31,15 @@ cat mafft_alns/cytb_species.aln.raxml.bestTree >> mafft_alns/all_species.gene.tr
 
 java -jar /Users/gillianchu/Desktop/cpsc/project/methods/osx/Astral/astral.5.7.8.jar -i /Users/gillianchu/Desktop/cpsc/project/datafiles/mafft_alns/all_species.gene.tre -o astral.consensus.tre
 
+echo "[Convert to nexus]"
+cp cytb_species.aln cytb_species.fasta
+seqmagick convert --output-format nexus --alphabet dna cytb_species.fasta cytb_species.nex
+echo "[Upload into BEAUti to generate an xml file]"
+
+echo "[Running BEAST from a brew installation!]"
+beast 16s_species.xml
+beast cytb_species.xml
+
+
 echo "[Done]"
 
